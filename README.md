@@ -112,7 +112,7 @@ TFF_CIC_MalMem2022
 ```
 ### Run with the Simulation Engine
 ```bash
-flwr run .
+run .
 ```
 
 - TFF_Malware - repository with Scripts to reproduce test with dataset Malware dataset centralized and descentralized with TFF framework.
@@ -124,5 +124,5 @@ TFF_Malware
 ```
 ### Run with the Simulation Engine
 ```bash
-flwr run .
+run .
 
